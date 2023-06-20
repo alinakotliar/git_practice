@@ -8,3 +8,4 @@ new branch
 one more line
 new
 the end
+-----------------------------------
